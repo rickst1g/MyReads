@@ -4,7 +4,7 @@ function NoMatch() {
             <h1 className="colorblue">MyReads</h1>
             <h1 className="colorred">404 Error</h1>
             <div>
-                The page selected is not valid.
+                No! No! No! You can't go there!
                 <br/>
                 Please, use the back arrow to see the previous page.
             </div>
